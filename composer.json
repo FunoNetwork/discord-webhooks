@@ -1,5 +1,5 @@
 {
-    "name": "nopjmp/discord-webhooks",
+    "name": "funo-network/discord-webhooks",
     "description": "A simple Discord webhook client library.",
     "type": "library",
     "license": "MIT",
